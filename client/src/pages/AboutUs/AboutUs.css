@@ -1,0 +1,25 @@
+.aboutus-container {
+  max-width: 800px;
+  margin: 7rem auto;
+  padding: 40px;
+  outline: 1px solid var(--accent-color);
+  box-shadow: 12px 12px 0 var(--accent-color);
+}
+
+.aboutus-title {
+  font-size: 28px;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+.aboutus-subtitle {
+  font-size: 20px;
+  font-weight: bold;
+  margin: 30px 0 10px;
+}
+
+.aboutus-content {
+  font-size: 16px;
+  line-height: 1.5;
+  margin-bottom: 20px;
+}
